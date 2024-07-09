@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148384298347",
+    "project_id": "healmypet-67567",
+    "storage_bucket": "healmypet-67567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148384298347:android:0bbb171e72fa08560f482e",
+        "android_client_info": {
+          "package_name": "com.example.healmypet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYygGyCccEKeVpT4G3DS2Fhq27bjygGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
