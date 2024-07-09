@@ -83,7 +83,7 @@ class DateTimeController extends GetxController {
     },
     {
       'label': 'PetsPace Animal Hospital',
-      'location': 'Lahore,Pakistan',
+      'location': 'Islamabad,Pakistan',
       'icon': 'assets/images/cat1.png'
     },
   ];
